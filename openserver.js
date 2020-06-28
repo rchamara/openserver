@@ -17,7 +17,7 @@ const response = {
         "https://openserver-mobile.herokuapp.com/images/img_9.jpg",
         "https://openserver-mobile.herokuapp.com/images/img_10.jpg",
         "https://openserver-mobile.herokuapp.com/images/img_11.jpg",
-        "https://openserver-mobile.herokuapp.com/images/img_12.jpeg",
+        "https://openserver-mobile.herokuapp.com/images/img_12.png",
         "https://openserver-mobile.herokuapp.com/images/img_13.jpg",
         "https://openserver-mobile.herokuapp.com/images/img_14.jpg",
         "https://openserver-mobile.herokuapp.com/images/img_15.jpg",
