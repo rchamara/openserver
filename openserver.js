@@ -176,6 +176,10 @@ const response = {
          {"url":"https://openserver-mobile.herokuapp.com/video/video_3.mp4",
          "name":"video_3.mp4",
          "thumbnail":"https://openserver-mobile.herokuapp.com/images/video_screen_2.jpg",
+         "type":"video"},
+         {"url":"https://openserver-mobile.herokuapp.com/video/video_1.mp4",
+         "name":"video_1.mp4",
+         "thumbnail":"https://openserver-mobile.herokuapp.com/images/video_screen_2.jpg",
          "type":"video"}
          
     ]
